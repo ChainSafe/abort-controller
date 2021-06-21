@@ -2,7 +2,7 @@
 
 [![npm version](https://img.shields.io/npm/v/@chainsafe/abort-controller.svg)](https://www.npmjs.com/package/@chainsafe/abort-controller)
 [![Downloads/month](https://img.shields.io/npm/dm/@chainsafe/abort-controller.svg)](http://www.npmtrends.com/@chainsafe/abort-controller)
-[![Build Status](https://travis-ci.org/mysticatea/abort-controller.svg?branch=master)](https://travis-ci.org/mysticatea/abort-controller)
+![Build Status](https://github.com/chainsafe/abort-controller/actions/workflows/test.yml/badge.svg)
 [![Coverage Status](https://codecov.io/gh/chainsafe/abort-controller/branch/master/graph/badge.svg)](https://codecov.io/gh/chainsafe/abort-controller)
 [![Dependency Status](https://david-dm.org/chainsafe/abort-controller.svg)](https://david-dm.org/chainsafe/abort-controller)
 
