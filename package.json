@@ -1,5 +1,5 @@
 {
-  "name": "abort-controller",
+  "name": "@chainsafe/abort-controller",
   "version": "3.0.0",
   "description": "An implementation of WHATWG AbortController interface.",
   "main": "dist/abort-controller",
@@ -73,7 +73,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/mysticatea/abort-controller.git"
+    "url": "git+https://github.com/chainsafe/abort-controller.git"
   },
   "keywords": [
     "w3c",
@@ -91,7 +91,7 @@
   "author": "Toru Nagashima (https://github.com/mysticatea)",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/mysticatea/abort-controller/issues"
+    "url": "https://github.com/chainsafe/abort-controller/issues"
   },
-  "homepage": "https://github.com/mysticatea/abort-controller#readme"
+  "homepage": "https://github.com/chainsafe/abort-controller#readme"
 }
